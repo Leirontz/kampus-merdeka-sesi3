@@ -1,0 +1,16 @@
+.garis{
+    border-right: 1px solid whitesmoke;
+    height: 120px;
+}
+
+p{
+    margin: 10px;
+}
+
+label{
+    margin-bottom: 4px !important;
+}
+
+body{
+    background-color: whitesmoke;
+}
